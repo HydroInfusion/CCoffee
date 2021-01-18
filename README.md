@@ -1,4 +1,4 @@
 # CPPNet
-A basic C++ library that compiles into HTML documents.
+A basic C++ library that compiles simple functions into HTML documents.
 
 # ----UNDER DEVELOPMENT----
