@@ -1,4 +1,7 @@
-# CPPNet
-A basic C++ library that compiles simple functions into HTML documents.
+# CCoffee
+A basic C++ library that compiles simple functions into HTML documents. 
 
-# ----UNDER DEVELOPMENT----
+Added this update:
+- Video Support
+- Image Support
+- Cascade Styling Support
