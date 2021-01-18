@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Custom;
+  src: url(custom_font.ttf);
+}
+
+body {
+  background-image: url(bg.jpg);
+}
