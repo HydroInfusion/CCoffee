@@ -4,12 +4,6 @@
 #include <string>
 using namespace std;
 
-/*
-
-UPDATE
-
-*/
-
 inline void readfile(string file_name, string file_extention) {
 	char data[100];
 	string filename(file_name + "." + file_extention);
